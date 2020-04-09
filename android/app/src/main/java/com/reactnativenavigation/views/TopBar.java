@@ -5,7 +5,7 @@ import android.graphics.Color;
 import android.os.Build;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import android.support.design.widget.AppBarLayout;
+import com.google.android.material.appbar.AppBarLayout;
 import androidx.core.util.Pair;
 import androidx.appcompat.app.ActionBar;
 import android.view.Gravity;
