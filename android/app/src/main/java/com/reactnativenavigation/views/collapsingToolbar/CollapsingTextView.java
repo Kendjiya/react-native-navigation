@@ -8,7 +8,7 @@ import android.graphics.Paint;
 import androidx.annotation.CheckResult;
 import androidx.annotation.FloatRange;
 import androidx.core.widget.TextViewCompat;
-import android.support.v7.widget.TintTypedArray;
+import androidx.appcompat.widget.TintTypedArray;
 import android.text.TextPaint;
 import android.text.TextUtils;
 import android.util.Log;
