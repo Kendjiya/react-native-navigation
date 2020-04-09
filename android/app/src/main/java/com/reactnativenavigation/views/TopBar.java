@@ -7,7 +7,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import android.support.design.widget.AppBarLayout;
 import androidx.core.util.Pair;
-import android.support.v7.app.ActionBar;
+import androidx.appcompat.app.ActionBar;
 import android.view.Gravity;
 import android.view.ViewGroup;
 import android.view.ViewOutlineProvider;
