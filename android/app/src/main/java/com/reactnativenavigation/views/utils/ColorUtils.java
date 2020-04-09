@@ -8,6 +8,6 @@ public class ColorUtils {
     }
 
     public static int labToColor(double[] lab) {
-        return android.support.v4.graphics.ColorUtils.LABToColor(lab[0], lab[1], lab[2]);
+        return androidx.core.graphics.ColorUtils.LABToColor(lab[0], lab[1], lab[2]);
     }
 }
